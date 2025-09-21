@@ -206,15 +206,7 @@ This section will guide you on how to quickly run this project locally.
 
 ---
 
-## Contributing
 
-PRs and Issues are welcome! Please fork this repository, develop on a branch, and submit a PR.
-
-1. Fork this project: [https://csgitlab.reading.ac.uk/python-cw2_group_srt_pyx_mlp_sfj_zez/Python-CW2_Group3](https://csgitlab.reading.ac.uk/python-cw2_group_srt_pyx_mlp_sfj_zez/Python-CW2_Group3)
-2. Create a new branch (`git checkout -b feature/xxx`)
-3. Commit your changes (`git commit -m 'Add xxx'`)
-4. Push the branch (`git push origin feature/xxx`)
-5. Submit a PR
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
