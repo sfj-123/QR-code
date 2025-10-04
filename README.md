@@ -222,8 +222,8 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-Author: Pan Yuxuan, Shen Ruiting, Shen Fangjie, Zhang Enze, Mao Leping
+Author:  Shen Fangjie
 
-Project address: [GitLab](https://csgitlab.reading.ac.uk/python-cw2_group_srt_pyx_mlp_sfj_zez/Python-CW2_Group3)
+
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
